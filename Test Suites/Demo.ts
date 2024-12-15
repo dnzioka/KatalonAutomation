@@ -31,6 +31,12 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Demo/ScriptMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b4e74607-b74b-4abd-979f-5c5bbf737100</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>f760102c-f745-4bb7-bf64-e33858b2b7cd</guid>
